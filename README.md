@@ -17,8 +17,9 @@ Thanks in advance to those who report the bugs. <3
 # Warning
 Light mode is not currently supported! Use dark mode instead.
 # Screenshots
-![alt text](https://i.imgur.com/mze6wWf.png)
-![alt text](https://i.imgur.com/XkfSOgL.png)
-![alt text](https://i.imgur.com/ICEdhzw.png)
-![alt text](https://i.imgur.com/A309VOG.png)
-![alt text](https://i.imgur.com/S4topGw.png)
+**[Click here to view on imgur.com](https://imgur.com/a/AHcvbiJ)
+![alt text](https://i.imgur.com/zCReVJM.png)
+![alt text](https://i.imgur.com/NQ9x0Jn.png)
+![alt text](https://i.imgur.com/en4sbCi.png)
+![alt text](https://i.imgur.com/x3giiWP.png)
+![alt text](https://i.imgur.com/9NF3O5L.png)
