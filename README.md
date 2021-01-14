@@ -6,7 +6,7 @@
 1. Enable `Developer mode` in the top right corner.
 1. Click on `Load unpacked` button (or something like this) and choose the `Green-Minehut-main` folder.
 # What does this extension do?
-This extension modifies the CSS properties of Minehut pages. It gives the page a shade of green and improves the UI. It is very simple and there will be some updates in the future.
+This extension modifies the CSS properties of Minehut pages. It gives the page a shade of green and improves the UI (only for the control panel). It is very simple and there will be some updates in the future.
 # How can I report a bug?
 You can contact me:
 * Discord: zZ#5896
