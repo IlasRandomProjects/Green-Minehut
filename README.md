@@ -16,3 +16,9 @@ You can contact me:
 Thanks in advance to those who report the bugs. <3
 # Warning
 Light mode is not currently supported! Use dark mode instead.
+# Screenshots
+![alt text](https://i.imgur.com/mze6wWf.png)
+![alt text](https://i.imgur.com/XkfSOgL.png)
+![alt text](https://i.imgur.com/ICEdhzw.png)
+![alt text](https://i.imgur.com/A309VOG.png)
+![alt text](https://i.imgur.com/S4topGw.png)
