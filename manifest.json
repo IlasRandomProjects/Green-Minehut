@@ -10,7 +10,7 @@
     },
     "content_scripts": [{
         "matches": ["https://*.minehut.com/*"],
-        "exclude_matches": ["https://*/forum/*"],
+        "exclude_matches": ["https://forums.minehut.com/*"],
         "js": ["content-script.js"]
     }],
     "permissions": [ "tabs", "https://*.minehut.com/*" ]
