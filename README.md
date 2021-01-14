@@ -14,3 +14,5 @@ You can contact me:
 * Instagram: @justilas
 
 Thanks in advance to those who report the bugs. <3
+# Warning
+Light mode is not currently supported! Use dark mode instead.
